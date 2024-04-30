@@ -1,0 +1,3 @@
+from list_of_us_universities_with_state_code.main import get_state_code_of_university
+
+get_state_code_of_university("CA")
